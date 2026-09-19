@@ -12,11 +12,10 @@ I enjoy turning ideas into working projects — from machine learning applicatio
 
 - 🎓 IT Undergraduate
 - 🤖 Interested in Machine Learning, Deep Learning & Generative AI
-- 🐍 Building projects with Python
-- 🌐 Developing interactive ML applications with Streamlit
-- 🧠 Exploring LLMs, RAG, LangChain & AI Agents
+- 🐍 Building practical applications with Python
+- 🌐 Developing interactive applications with Streamlit
+- 🧠 Exploring LLMs, RAG, LangChain, AI Agents & modern AI technologies
 - ☁️ Learning deployment with Docker & AWS
-- 🚀 Currently building and improving AI/ML projects
 
 ---
 
@@ -50,22 +49,30 @@ I enjoy turning ideas into working projects — from machine learning applicatio
 
 ## 🧠 Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning
-- Generative AI
-- RAG Systems
-- AI Agents
-- Cloud Deployment
-- Docker & AWS
+- Advanced Machine Learning & Deep Learning
+- Generative AI & AI Agents
+- RAG-based applications
+- Cloud Deployment & MLOps
 
 ---
 
-## 📊 What I Work With
+## 🎯 Areas of Interest
 
-```text
-Machine Learning       ███████████████████░░
-Deep Learning          █████████████████░░░░
-Generative AI          ████████████████░░░░░
-Python                 ███████████████████░░
-Streamlit              █████████████████░░░░
-Cloud & Deployment     ████████████░░░░░░░░░
+Machine Learning • Deep Learning • Generative AI • AI Agents • Python Development
+
+## 🌱 My Goal
+
+To continuously learn, build, and grow as an AI/ML engineer by creating practical and meaningful technology solutions.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/MousumiBadyakar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mousumi-badyakar-91619b25b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
