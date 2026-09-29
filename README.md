@@ -60,7 +60,6 @@ I enjoy turning ideas into working projects — from machine learning applicatio
 
 Machine Learning • Deep Learning • Generative AI • AI Agents • Python Development
 
----
 
 ## 🌱 My Goal
 
