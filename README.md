@@ -60,6 +60,8 @@ I enjoy turning ideas into working projects — from machine learning applicatio
 
 Machine Learning • Deep Learning • Generative AI • AI Agents • Python Development
 
+---
+
 ## 🌱 My Goal
 
 To continuously learn, build, and grow as an AI/ML engineer by creating practical and meaningful technology solutions.
