@@ -68,11 +68,6 @@ To continuously learn, build, and grow as an AI/ML engineer by creating practica
 ---
 
 ## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/MousumiBadyakar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/mousumi-badyakar-91619b25b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
